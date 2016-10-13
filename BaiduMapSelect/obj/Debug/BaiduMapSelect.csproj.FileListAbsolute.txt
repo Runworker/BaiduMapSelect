@@ -1,0 +1,6 @@
+C:\Users\liuzhan\Desktop\BaiduMapSelect\BaiduMapSelect\BaiduMapSelect\bin\BaiduMapSelect.dll.config
+C:\Users\liuzhan\Desktop\BaiduMapSelect\BaiduMapSelect\BaiduMapSelect\bin\BaiduMapSelect.dll
+C:\Users\liuzhan\Desktop\BaiduMapSelect\BaiduMapSelect\BaiduMapSelect\bin\BaiduMapSelect.pdb
+C:\Users\liuzhan\Desktop\BaiduMapSelect\BaiduMapSelect\BaiduMapSelect\obj\Debug\BaiduMapSelect.csprojResolveAssemblyReference.cache
+C:\Users\liuzhan\Desktop\BaiduMapSelect\BaiduMapSelect\BaiduMapSelect\obj\Debug\BaiduMapSelect.dll
+C:\Users\liuzhan\Desktop\BaiduMapSelect\BaiduMapSelect\BaiduMapSelect\obj\Debug\BaiduMapSelect.pdb
